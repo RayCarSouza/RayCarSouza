@@ -2,9 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&left=true&vCenter=true&width=1000&lines=Oi!+Eu+sou+a+Rayra!+👋;Bem+Vindo+ao+meu+perfil!)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMvWHbHDslJMBVKHltSBfkZgKmJQcZhnvqJTgdVqcJgPfjFSRPgSfJBpDDVnPrHqpDcDnB)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rayrac.carvalho07@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayra-carvalho-430207255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayCarSouza&layout=compact&text_color=E0E0E0&title_color=0000FF&bg_color=00000000&hide=ShaderLab,HLSL,ASP.NET&)](https://github.com/RayCarSouza/github-readme-stats)"/>
 
