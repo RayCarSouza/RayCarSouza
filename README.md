@@ -1,16 +1,17 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-<!--
-**RayCarSouza/RayCarSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&left=true&vCenter=true&width=1000&lines=Oi!+Eu+sou+a+Rayra!+👋;Bem+Vindo+ao+meu+perfil!)
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMvWHbHDslJMBVKHltSBfkZgKmJQcZhnvqJTgdVqcJgPfjFSRPgSfJBpDDVnPrHqpDcDnB)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayCarSouza&layout=compact&text_color=E0E0E0&title_color=0000FF&bg_color=00000000&hide=ShaderLab,HLSL,ASP.NET&)](https://github.com/RayCarSouza/github-readme-stats)"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&left=true&vCenter=true&width=1000&lines=IDE's)
+![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
